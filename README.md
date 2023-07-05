@@ -1,2 +1,2 @@
 # javaee
-Agenda de contatos - Curso Java WEB Professor José de Assis
+Agenda de contatos - Curso Técnico em Infomática para Internet - E.E. Prof. Marlene Carmo
